@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jardesc>
+    <jar path="C:/Documents and Settings/kanterakis/Desktop/Stathis/SKDM_HLA_Tools/system/SKDM.jar"/>
+    <options buildIfNeeded="true" compress="false" descriptionLocation="/HLAblaster/jar.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="true" overwrite="true" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="false" mainClassHandleIdentifier="=HLAblaster/&lt;gui{Window.java[Window" manifestLocation="/HLAblaster/manifest.mf" manifestVersion="1.0" reuseManifest="true" saveManifest="true" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="false" exportJavaFiles="true" exportOutputFolder="true">
+        <javaElement handleIdentifier="=HLAblaster/&lt;main"/>
+        <file path="/HLAblaster/build.xml"/>
+        <file path="/HLAblaster/jar.jardesc"/>
+        <file path="/HLAblaster/.classpath"/>
+        <javaElement handleIdentifier="=HLAblaster/&lt;web"/>
+        <javaElement handleIdentifier="=HLAblaster/&lt;gui"/>
+        <file path="/HLAblaster/manifest.mf"/>
+        <file path="/HLAblaster/.project"/>
+        <javaElement handleIdentifier="=HLAblaster/&lt;utils"/>
+    </selectedElements>
+</jardesc>

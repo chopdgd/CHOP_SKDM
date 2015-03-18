@@ -1,0 +1,7 @@
+a: DECIMAL PLACES FOR PERCENTAGES (number of decimals to output for percentages) : 2
+b: DECIMAL PLACES FOR P-VALUES (number of decimals to output for p-values) : 5
+c: P-VALUE THRESHOLD (significance threshold) : 0.05
+d: BOOST P-VALUE METHOD (run an alternative analysis (based on deltas) that results in a lower correction) : false
+e: POSITIONS TO INTERROGATE (interrogate this many positions from the start of the alignment [0 = all]) : 0
+f: PRINT SIGNIFICANT ONLY (hide items whose corrected p-value is less than the threshold) : false
+g: MANUAL STRATIFICATION (to be implemented...) : 

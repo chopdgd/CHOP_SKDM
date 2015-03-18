@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/netbeans-5.5/ide7/modules/ext/AbsoluteLayout.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/netbeans-5.5/platform6/modules/ext/swing-layout-1.0.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>

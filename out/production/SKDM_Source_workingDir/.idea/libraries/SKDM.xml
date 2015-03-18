@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SKDM">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/SKDM.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

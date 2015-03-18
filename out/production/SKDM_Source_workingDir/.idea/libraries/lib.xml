@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/commons-collections-3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-dbcp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-fileupload-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-io-2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-logging-1.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-net-2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-pool.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/dgdcore_1.1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/httpclient-4.2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/httpcore-4.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-1.2.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/apache-commons.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-lang3-3.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
