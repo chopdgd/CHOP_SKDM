@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" build-on-make="true" name="SKDM:war">
-    <output-path>$PROJECT_DIR$/target</output-path>
-    <root id="archive" name="SKDM.war">
-      <element id="artifact" artifact-name="SKDM:war exploded" />
-    </root>
-  </artifact>
-</component>
