@@ -383,10 +383,11 @@ public class HLAAlign {
                 //remove alleles if allele not found.
                 if(foundAllele==0){
                     System.out.println("could not find allele:"+allele);
-                    if (!Settings.SUPPRESS_WARNINGS)Tools.printErr("\n*Allele '" + allelesAsc.indexOf(allele) + "' does not exist for HLA-" + loc + " and will be ignored");
+                    if (!Settings.SUPPRESS_WARNINGS)Tools.printErr("\n*Allele '" + allele + "' does not exist for HLA-" + loc + " and will be ignored");
                     deltas.remove(allelesIn.indexOf(allele));
                     allelesIn.remove(allelesIn.indexOf(allele));
-                    allelesTobeRemoved.add(alSerial, allele);
+                    int count = allelesTobeRemoved.size();
+                    allelesTobeRemoved.add(count, allele);
                     allele_count=allele_count-1;
                 }
 

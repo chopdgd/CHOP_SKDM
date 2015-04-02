@@ -1,9 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="exploded-ear" name="SKDM_Source_workingDir:ear exploded">
-    <output-path>$PROJECT_DIR$/out/artifacts/SKDM_Source_workingDir_ear_exploded</output-path>
-    <root id="root">
-      <element id="javaee-facet-resources" facet="SKDM_Source_workingDir/javaeeApplication/javaEEApplication" />
-      <element id="module-output" name="SKDM_Source_workingDir" />
-    </root>
-  </artifact>
-</component>

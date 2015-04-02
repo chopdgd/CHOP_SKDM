@@ -7,289 +7,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="060ff0f0-1e21-430f-b640-808cd471f086" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/artifacts/SKDM_Source_ear_exploded.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SKDM_Source1.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/AlleleMapComparator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/AlleleObject.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/Delta.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/DownloadAlleles.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/LinkageDisequilibrium.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/ListUnique.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/Locus.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/ParseFile.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/Residue.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/ResidueEntry.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/Run.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/.idea/.name" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/.idea/artifacts/SKDM_Source_ear_exploded.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/.idea/artifacts/SKDM_Source_workingDir_ear_exploded.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/.idea/compiler.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/.idea/copyright/profiles_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/.idea/encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/.idea/libraries/SKDM.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/.idea/libraries/lib.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/.idea/scopes/scope_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/.idea/uiDesigner.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/A_prot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/B_prot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/C_prot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/DPB1_prot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/DQA1_prot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/DQB1_prot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/DRB1_prot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/ERR_prot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/META-INF/application.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/SKDM.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/SKDM_Source.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/SKDM_Source1.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/SKDM_Source_workingDir.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/ctrl.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/gui/Window$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/gui/Window.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/gui/hla_icon.GIF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/gui/hla_icon.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/lib/apache-commons.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/lib/commons-collections-3.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/lib/commons-dbcp.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/lib/commons-fileupload-1.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/lib/commons-io-2.4.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/lib/commons-lang3-3.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/lib/commons-logging-1.0.4.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/lib/commons-net-2.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/lib/commons-pool.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/lib/dgdcore_1.1.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/lib/httpclient-4.2.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/lib/httpcore-4.2.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/lib/log4j-1.2.16.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/log.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/main/AlleleMapComparator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/main/AlleleObject.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/main/Delta.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/main/DownloadAlleles.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/main/LinkageDisequilibrium$LDEntry.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/main/LinkageDisequilibrium.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/main/ListUnique.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/main/Locus$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/main/Locus$10.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/main/Locus$11.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/main/Locus$12.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/main/Locus$13.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/main/Locus$14.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/main/Locus$15.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/main/Locus$16.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/main/Locus$17.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/main/Locus$18.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/main/Locus$19.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/main/Locus$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/main/Locus$20.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/main/Locus$21.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/main/Locus$22.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/main/Locus$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/main/Locus$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/main/Locus$5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/main/Locus$6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/main/Locus$7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/main/Locus$8.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/main/Locus$9.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/main/Locus.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/main/ParseFile.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/main/Residue$ResidueEntryComparator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/main/Residue.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/main/ResidueEntry.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/main/Run.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/pat.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/production/SKDM_Source/.classpath" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/production/SKDM_Source/.idea/artifacts/SKDM_war.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/production/SKDM_Source/.idea/artifacts/SKDM_war_exploded.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/production/SKDM_Source/.idea/artifacts/web_war_exploded.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/production/SKDM_Source/.idea/compiler.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/production/SKDM_Source/.idea/copyright/profiles_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/production/SKDM_Source/.idea/description.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/production/SKDM_Source/.idea/encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/production/SKDM_Source/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/production/SKDM_Source/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/production/SKDM_Source/.idea/libraries/Maven__javax_servlet_jsp_jsp_api_2_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/production/SKDM_Source/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/production/SKDM_Source/.idea/libraries/Maven__junit_junit_4_8_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/production/SKDM_Source/.idea/libraries/Maven__org_springframework_spring_aop_3_2_0_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/production/SKDM_Source/.idea/libraries/Maven__org_springframework_spring_beans_3_2_0_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/production/SKDM_Source/.idea/libraries/Maven__org_springframework_spring_context_3_2_0_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/production/SKDM_Source/.idea/libraries/Maven__org_springframework_spring_core_3_2_0_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/production/SKDM_Source/.idea/libraries/Maven__org_springframework_spring_expression_3_2_0_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/production/SKDM_Source/.idea/libraries/Maven__org_springframework_spring_test_3_2_0_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/production/SKDM_Source/.idea/libraries/Maven__org_springframework_spring_web_3_2_0_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/production/SKDM_Source/.idea/libraries/Maven__org_springframework_spring_webmvc_3_2_0_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/production/SKDM_Source/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/production/SKDM_Source/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/production/SKDM_Source/.idea/project-template.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/production/SKDM_Source/.idea/runConfigurations/AppTests.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/production/SKDM_Source/.idea/scopes/scope_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/production/SKDM_Source/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/production/SKDM_Source/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/production/SKDM_Source/.project" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/production/SKDM_Source/META-INF/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/production/SKDM_Source/SKDM.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/production/SKDM_Source/build.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/production/SKDM_Source/gui/hla_icon.GIF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/production/SKDM_Source/gui/hla_icon.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/production/SKDM_Source/jar.jardesc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/production/SKDM_Source/lib/commons-collections-3.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/production/SKDM_Source/lib/commons-dbcp.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/production/SKDM_Source/lib/commons-fileupload-1.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/production/SKDM_Source/lib/commons-io-2.4.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/production/SKDM_Source/lib/commons-logging-1.0.4.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/production/SKDM_Source/lib/commons-net-2.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/production/SKDM_Source/lib/commons-pool.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/production/SKDM_Source/manifest.mf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/production/SKDM_Source/pom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/production/SKDM_Source/web/WEB-INF/web.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/production/SKDM_Source/web/alignA.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/production/SKDM_Source/web/alignB.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/production/SKDM_Source/web/alignCw.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/production/SKDM_Source/web/alignDPA1.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/production/SKDM_Source/web/alignDPB1.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/production/SKDM_Source/web/alignDQA1.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/production/SKDM_Source/web/alignDQB1.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/production/SKDM_Source/web/alignDRB1.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/production/SKDM_Source/web/alignMICA.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/production/SKDM_Source/web/alignMICB.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/production/SKDM_Source/web/index.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/settings.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/utils/FisherExact.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/utils/Settings.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/utils/Tools.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/web/FTPFileDownloader.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/web/FileFTPDownload.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/web/HLAAlign.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/web/alignA.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/web/alignB.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/web/alignCw.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/web/alignDPA1.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/web/alignDPB1.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/web/alignDQA1.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/web/alignDQB1.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/web/alignDRB1.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/web/alignMICA.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SKDM_Source_workingDir/web/alignMICB.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/SKDM_Source/.classpath" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/SKDM_Source/.idea/artifacts/SKDM_war.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/SKDM_Source/.idea/artifacts/SKDM_war_exploded.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/SKDM_Source/.idea/artifacts/web_war_exploded.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/SKDM_Source/.idea/compiler.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/SKDM_Source/.idea/copyright/profiles_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/SKDM_Source/.idea/description.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/SKDM_Source/.idea/encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/SKDM_Source/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/SKDM_Source/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/SKDM_Source/.idea/libraries/Maven__javax_servlet_jsp_jsp_api_2_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/SKDM_Source/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/SKDM_Source/.idea/libraries/Maven__junit_junit_4_8_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/SKDM_Source/.idea/libraries/Maven__org_springframework_spring_aop_3_2_0_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/SKDM_Source/.idea/libraries/Maven__org_springframework_spring_beans_3_2_0_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/SKDM_Source/.idea/libraries/Maven__org_springframework_spring_context_3_2_0_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/SKDM_Source/.idea/libraries/Maven__org_springframework_spring_core_3_2_0_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/SKDM_Source/.idea/libraries/Maven__org_springframework_spring_expression_3_2_0_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/SKDM_Source/.idea/libraries/Maven__org_springframework_spring_test_3_2_0_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/SKDM_Source/.idea/libraries/Maven__org_springframework_spring_web_3_2_0_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/SKDM_Source/.idea/libraries/Maven__org_springframework_spring_webmvc_3_2_0_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/SKDM_Source/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/SKDM_Source/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/SKDM_Source/.idea/project-template.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/SKDM_Source/.idea/runConfigurations/AppTests.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/SKDM_Source/.idea/scopes/scope_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/SKDM_Source/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/SKDM_Source/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/SKDM_Source/.project" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/SKDM_Source/META-INF/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/SKDM_Source/SKDM.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/SKDM_Source/build.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/SKDM_Source/gui/Window$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/SKDM_Source/gui/Window.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/SKDM_Source/gui/hla_icon.GIF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/SKDM_Source/gui/hla_icon.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/SKDM_Source/jar.jardesc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/SKDM_Source/lib/commons-collections-3.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/SKDM_Source/lib/commons-dbcp.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/SKDM_Source/lib/commons-fileupload-1.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/SKDM_Source/lib/commons-io-2.4.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/SKDM_Source/lib/commons-logging-1.0.4.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/SKDM_Source/lib/commons-net-2.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/SKDM_Source/lib/commons-pool.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/SKDM_Source/main/AlleleMapComparator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/SKDM_Source/main/Delta.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/SKDM_Source/main/DownloadAlleles.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/SKDM_Source/main/LinkageDisequilibrium$LDEntry.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/SKDM_Source/main/LinkageDisequilibrium.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/SKDM_Source/main/ListUnique.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/SKDM_Source/main/Locus$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/SKDM_Source/main/Locus$10.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/SKDM_Source/main/Locus$11.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/SKDM_Source/main/Locus$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/SKDM_Source/main/Locus$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/SKDM_Source/main/Locus$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/SKDM_Source/main/Locus$5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/SKDM_Source/main/Locus$6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/SKDM_Source/main/Locus$7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/SKDM_Source/main/Locus$8.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/SKDM_Source/main/Locus$9.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/SKDM_Source/main/Locus.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/SKDM_Source/main/ParseFile.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/SKDM_Source/main/Residue$ResidueEntryComparator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/SKDM_Source/main/Residue.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/SKDM_Source/main/ResidueEntry.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/SKDM_Source/main/Run.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/SKDM_Source/manifest.mf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/SKDM_Source/pom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/SKDM_Source/utils/FisherExact.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/SKDM_Source/utils/Settings.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/SKDM_Source/utils/Tools.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/SKDM_Source/web/FileDownloader.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/SKDM_Source/web/FileFTPDownload.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/SKDM_Source/web/HLAAlign.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/SKDM_Source/web/WEB-INF/web.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/SKDM_Source/web/alignA.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/SKDM_Source/web/alignB.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/SKDM_Source/web/alignCw.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/SKDM_Source/web/alignDPA1.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/SKDM_Source/web/alignDPB1.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/SKDM_Source/web/alignDQA1.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/SKDM_Source/web/alignDQB1.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/SKDM_Source/web/alignDRB1.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/SKDM_Source/web/alignMICA.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/SKDM_Source/web/alignMICB.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/SKDM_Source/web/index.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/utils/FisherExact.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/utils/Settings.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/utils/Tools.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/FTPFileDownloader.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/FileFTPDownload.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/HLAAlign.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/alignA.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/alignB.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/alignCw.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/alignDPA1.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/alignDPB1.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/alignDQA1.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/alignDQB1.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/alignDRB1.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/alignMICA.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/alignMICB.htm" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ctrl.txt" afterPath="$PROJECT_DIR$/logs/ctrl.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/gui/Window.java" afterPath="$PROJECT_DIR$/src/gui/Window.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/gui/hla_icon.GIF" afterPath="$PROJECT_DIR$/src/gui/hla_icon.GIF" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/gui/hla_icon.jpg" afterPath="$PROJECT_DIR$/src/gui/hla_icon.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/log.txt" afterPath="$PROJECT_DIR$/logs/log.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/pat.txt" afterPath="$PROJECT_DIR$/logs/pat.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/dgdcore_1.1.3.jar" afterPath="$PROJECT_DIR$/lib/dgdcore_1.1.3.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SKDM_Source_workingDir.iml" afterPath="$PROJECT_DIR$/SKDM_Source_workingDir.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/SKDM_Source_workingDir_ear_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/SKDM_Source_workingDir_ear_exploded.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/artifacts/SKDM_Source_workingDir_ear_exploded.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SKDM_2.1.jar" afterPath="$PROJECT_DIR$/lib/SKDM_2.1.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/web/HLAAlign.java" afterPath="$PROJECT_DIR$/src/web/HLAAlign.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/ctrl.txt" afterPath="$PROJECT_DIR$/logs/ctrl.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/log.txt" afterPath="$PROJECT_DIR$/logs/log.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/pat.txt" afterPath="$PROJECT_DIR$/logs/pat.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="SKDM_Source.iws" />
@@ -351,7 +74,7 @@
     </breakpoint_any>
     <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true">
-      <breakpoint url="file://$PROJECT_DIR$/src/gui/Window.java" line="253" class="src.gui.Window" package="src.gui">
+      <breakpoint url="file://$PROJECT_DIR$/src/web/HLAAlign.java" line="206" class="src.web.HLAAlign" package="src.web">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -366,7 +89,7 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/gui/Window.java" line="254" class="src.gui.Window" package="src.gui">
+      <breakpoint url="file://$PROJECT_DIR$/src/web/HLAAlign.java" line="292" class="src.web.HLAAlign" package="src.web">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -381,7 +104,7 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/gui/Window.java" line="260" class="src.gui.Window" package="src.gui">
+      <breakpoint url="file://$PROJECT_DIR$/src/web/HLAAlign.java" line="319" class="src.web.HLAAlign" package="src.web">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -396,7 +119,82 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/gui/Window.java" line="282" class="src.gui.Window" package="src.gui">
+      <breakpoint url="file://$PROJECT_DIR$/src/web/HLAAlign.java" line="390" class="src.web.HLAAlign" package="src.web">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/web/HLAAlign.java" line="384" class="src.web.HLAAlign" package="src.web">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/web/HLAAlign.java" line="398" class="src.web.HLAAlign" package="src.web">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/web/HLAAlign.java" line="386" class="src.web.HLAAlign" package="src.web">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/web/HLAAlign.java" line="387" class="src.web.HLAAlign" package="src.web">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/web/HLAAlign.java" line="388" class="src.web.HLAAlign" package="src.web">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -424,11 +222,8 @@
       <file leaf-file-name="LinkageDisequilibrium.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/LinkageDisequilibrium.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="539" column="19" selection-start="22186" selection-end="22186" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="10470">
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1883#1897#0" expanded="true" />
-              </folding>
+            <state line="539" column="19" selection-start="22186" selection-end="22186" vertical-scroll-proportion="0.0" vertical-offset="8085" max-vertical-offset="10620">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -436,10 +231,8 @@
       <file leaf-file-name="Residue.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/Residue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="13" selection-start="188" selection-end="188" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="7425">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state line="10" column="13" selection-start="188" selection-end="188" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="7425">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -447,11 +240,8 @@
       <file leaf-file-name="Run.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/Run.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="13" selection-start="248" selection-end="248" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="2865">
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#2666#2673#0" expanded="true" />
-              </folding>
+            <state line="12" column="13" selection-start="248" selection-end="248" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="2865">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -459,10 +249,8 @@
       <file leaf-file-name="FileFTPDownload.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/web/FileFTPDownload.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="6" selection-start="69" selection-end="69" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1245">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state line="6" column="6" selection-start="69" selection-end="69" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="1245">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -470,27 +258,34 @@
       <file leaf-file-name="FTPFileDownloader.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/web/FTPFileDownloader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="7" selection-start="71" selection-end="71" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1200">
+            <state line="7" column="7" selection-start="71" selection-end="71" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="1200">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HLAAlign.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="HLAAlign.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/web/HLAAlign.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="23" selection-start="942" selection-end="942" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="8370">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state line="451" column="39" selection-start="62505" selection-end="62505" vertical-scroll-proportion="0.75084174" vertical-offset="5438" max-vertical-offset="8160">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="build.xml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Tools.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/utils/Tools.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="99" column="29" selection-start="3151" selection-end="3151" vertical-scroll-proportion="0.0" vertical-offset="1370" max-vertical-offset="2190">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="83" column="44" selection-start="3488" selection-end="3488" vertical-scroll-proportion="0.1867995" vertical-offset="1095" max-vertical-offset="1920">
+            <state line="7" column="50" selection-start="424" selection-end="424" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1920">
               <folding />
             </state>
           </provider>
@@ -499,9 +294,10 @@
       <file leaf-file-name="Window.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/gui/Window.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="282" column="0" selection-start="11370" selection-end="11370" vertical-scroll-proportion="0.0" vertical-offset="3697" max-vertical-offset="4500">
+            <state line="288" column="0" selection-start="11568" selection-end="11568" vertical-scroll-proportion="0.0" vertical-offset="3528" max-vertical-offset="4365">
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#11615#11753#0" expanded="true" />
+                <element signature="e#11742#11743#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -510,10 +306,8 @@
       <file leaf-file-name="Settings.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/utils/Settings.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="77" column="72" selection-start="2601" selection-end="2601" vertical-scroll-proportion="0.0" vertical-offset="607" max-vertical-offset="2655">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state line="77" column="72" selection-start="2601" selection-end="2601" vertical-scroll-proportion="0.0" vertical-offset="1155" max-vertical-offset="2655">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -576,9 +370,9 @@
         <option value="$PROJECT_DIR$/src/main/LinkageDisequilibrium.java" />
         <option value="$PROJECT_DIR$/src/web/FileFTPDownload.java" />
         <option value="$PROJECT_DIR$/src/web/FTPFileDownloader.java" />
-        <option value="$PROJECT_DIR$/src/web/HLAAlign.java" />
         <option value="$PROJECT_DIR$/src/gui/Window.java" />
         <option value="$PROJECT_DIR$/build.xml" />
+        <option value="$PROJECT_DIR$/src/web/HLAAlign.java" />
       </list>
     </option>
   </component>
@@ -600,6 +394,11 @@
   <component name="ProjectReloadState">
     <option name="STATE" value="0" />
   </component>
+  <component name="ProjectStructureProblems">
+    <ignored-problems>
+      <problem id="unused-library(library:project:SKDM)" />
+    </ignored-problems>
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
       <flattenPackages />
@@ -613,6 +412,9 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="PackagesPane">
+        <subPane />
+      </pane>
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -632,10 +434,39 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SKDM_Source_workingDir" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SKDM_Source_workingDir" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SKDM_Source_workingDir" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SKDM_Source_workingDir" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gui" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
-      </pane>
-      <pane id="PackagesPane">
-        <subPane />
       </pane>
     </panes>
   </component>
@@ -646,7 +477,7 @@
     <property name="MemberChooser.sorted" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.20240481" />
     <property name="recentsLimit" value="5" />
@@ -656,7 +487,7 @@
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/dist" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/classes" />
     <property name="dynamic.classpath" value="false" />
     <property name="SearchEverywhereHistory" value="" />
     <property name="GenerateAntBuildDialog.generateSingleFile" value="true" />
@@ -679,38 +510,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Window">
-    <configuration default="false" name="Window" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="main.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="src.gui.Window" />
-      <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" value="" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="SKDM_Source_workingDir" />
-      <envs />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="JProfiler">
-        <option name="WINDOW" value="false" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.SKDM_Window">
     <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails" singleton="true">
       <module name="" />
       <setting name="vmparams" value="" />
@@ -764,6 +564,10 @@
         <option name="TRANSPORT" value="0" />
         <option name="LOCAL" value="true" />
       </RunnerSettings>
+      <RunnerSettings RunnerId="JProfiler">
+        <option name="JVM" value="/Library/Java/JavaVirtualMachines/jdk1.7.0_51.jdk/Contents/Home" />
+        <option name="WINDOW" value="false" />
+      </RunnerSettings>
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
         <option name="USE_ENV_VARIABLES" value="true" />
@@ -781,6 +585,21 @@
         </SHUTDOWN>
       </ConfigurationWrapper>
       <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="JProfiler">
         <option name="USE_ENV_VARIABLES" value="true" />
         <STARTUP>
           <option name="USE_DEFAULT" value="true" />
@@ -1205,6 +1024,32 @@
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
       <method />
     </configuration>
+    <configuration default="false" name="SKDM_Window" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="src.gui.Window" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="SKDM_Source_workingDir" />
+      <envs />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="JProfiler">
+        <option name="WINDOW" value="false" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
     <configuration default="false" name="Dgdweb_tomcat" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.50" ALTERNATIVE_JRE_ENABLED="false" ALTERNATIVE_JRE_PATH="">
       <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/dgdweb/primer/home.html" />
       <option name="UPDATING_POLICY" value="restart-server" />
@@ -1292,14 +1137,9 @@
       <method />
     </configuration>
     <list size="2">
-      <item index="0" class="java.lang.String" itemvalue="Application.Window" />
+      <item index="0" class="java.lang.String" itemvalue="Application.SKDM_Window" />
       <item index="1" class="java.lang.String" itemvalue="Tomcat Server.Dgdweb_tomcat" />
     </list>
-    <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Application.Window" />
-      </list>
-    </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
       <Host>localhost</Host>
       <Port>5050</Port>
@@ -1353,11 +1193,13 @@
       <workItem from="1425190451754" duration="157503000" />
       <workItem from="1427111755913" duration="9420000" />
       <workItem from="1427291709683" duration="15320000" />
+      <workItem from="1427726873708" duration="718000" />
+      <workItem from="1427921614508" duration="3828000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="392447000" />
+    <option name="totallyTimeSpent" value="396993000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -1385,32 +1227,32 @@
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32872254" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="JavaEE:App" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20113085" sideWeight="0.300216" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1477363" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32944608" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.056791104" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.26037428" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="-1280" y="22" width="1280" height="778" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21486267" sideWeight="0.30029154" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.08723748" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32944608" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33236152" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15409055" sideWeight="0.6976242" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.61269325" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32944608" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29073483" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32384053" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="-1280" y="22" width="1280" height="778" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21486267" sideWeight="0.30029154" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32384053" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33236152" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24821287" sideWeight="0.4967033" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.1615509" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JProfiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.07545671" sideWeight="0.6976242" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.61269325" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3265306" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29073483" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -1493,9 +1335,7 @@
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_51.jdk/Contents/Home/src.zip!/java/lang/Math.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="877" column="22" selection-start="35163" selection-end="35163" vertical-scroll-proportion="0.3330558" vertical-offset="12410" max-vertical-offset="22635">
-          <folding />
-        </state>
+        <state line="877" column="22" selection-start="35163" selection-end="35163" vertical-scroll-proportion="0.3330558" vertical-offset="12410" max-vertical-offset="22635" />
       </provider>
     </entry>
     <entry file="jar://$PROJECT_DIR$/lib/dgdcore_1.1.3.jar!/edu/chop/dgd/process/FileDownloader.class">
@@ -1505,17 +1345,15 @@
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_51.jdk/Contents/Home/src.zip!/java/lang/StringBuffer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="559" column="31" selection-start="16550" selection-end="16550" vertical-scroll-proportion="0.33333334" vertical-offset="7946" max-vertical-offset="8820">
-          <folding />
-        </state>
+        <state line="559" column="31" selection-start="16550" selection-end="16550" vertical-scroll-proportion="0.33333334" vertical-offset="7946" max-vertical-offset="8820" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/logs/ctrl.txt">
-      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="0" selection-start="18" selection-end="18" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="135" />
+      </provider>
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
       </provider>
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_51.jdk/Contents/Home/src.zip!/javax/swing/text/FlowView.java">
@@ -1530,31 +1368,25 @@
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_51.jdk/Contents/Home/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1906" column="0" selection-start="75404" selection-end="75404" vertical-scroll-proportion="0.33248082" vertical-offset="27835" max-vertical-offset="46140">
-          <folding />
-        </state>
+        <state line="1906" column="0" selection-start="75404" selection-end="75404" vertical-scroll-proportion="0.33248082" vertical-offset="27835" max-vertical-offset="46140" />
       </provider>
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_51.jdk/Contents/Home/src.zip!/java/util/LinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="334" column="19" selection-start="9220" selection-end="9220" vertical-scroll-proportion="0.33333334" vertical-offset="4448" max-vertical-offset="16815">
-          <folding />
-        </state>
+        <state line="334" column="19" selection-start="9220" selection-end="9220" vertical-scroll-proportion="0.33333334" vertical-offset="4448" max-vertical-offset="16815" />
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/Desktop/WGTest3399321_DNA_NS_validationset.txt">
-      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state line="145" column="84" selection-start="11138" selection-end="11138" vertical-scroll-proportion="0.05726257" vertical-offset="2134" max-vertical-offset="20595" />
+      </provider>
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
       </provider>
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_51.jdk/Contents/Home/src.zip!/java/util/TreeSet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="122" column="11" selection-start="4687" selection-end="4687" vertical-scroll-proportion="0.7745098" vertical-offset="1248" max-vertical-offset="7830">
-          <folding />
-        </state>
+        <state line="122" column="11" selection-start="4687" selection-end="4687" vertical-scroll-proportion="0.7745098" vertical-offset="1248" max-vertical-offset="7830" />
       </provider>
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_51.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
@@ -1563,18 +1395,16 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/logs/pat.txt">
-      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state line="17" column="0" selection-start="198" selection-end="198" vertical-scroll-proportion="9.111111" vertical-offset="501" max-vertical-offset="840" />
+      </provider>
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/logs/log.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4320" column="0" selection-start="250233" selection-end="250233" vertical-scroll-proportion="0.0" vertical-offset="64258" max-vertical-offset="64890">
-          <folding />
-        </state>
+        <state line="4320" column="0" selection-start="250233" selection-end="250233" vertical-scroll-proportion="0.0" vertical-offset="64258" max-vertical-offset="64890" />
       </provider>
     </entry>
     <entry file="jar://$PROJECT_DIR$/lib/dgdcore_1.1.3.jar!/META-INF/MANIFEST.MF">
@@ -1584,110 +1414,72 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/META-INF/application.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="14" selection-start="322" selection-end="322" vertical-scroll-proportion="0.15050167" vertical-offset="0" max-vertical-offset="598">
-          <folding />
-        </state>
+        <state line="6" column="14" selection-start="322" selection-end="322" vertical-scroll-proportion="0.15050167" vertical-offset="0" max-vertical-offset="598" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/AlleleMapComparator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="17" selection-start="17" selection-end="17" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="585">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
+        <state line="0" column="17" selection-start="17" selection-end="17" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="585" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/AlleleObject.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="12" selection-start="12" selection-end="12" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="405">
-          <folding />
-        </state>
+        <state line="0" column="12" selection-start="12" selection-end="12" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="405" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/Delta.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="7" selection-start="83" selection-end="83" vertical-scroll-proportion="0.0" vertical-offset="1" max-vertical-offset="1470">
-          <folding />
-        </state>
+        <state line="4" column="7" selection-start="83" selection-end="83" vertical-scroll-proportion="0.0" vertical-offset="1" max-vertical-offset="1470" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/DownloadAlleles.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="18" selection-end="18" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
-          <folding />
-        </state>
+        <state line="1" column="0" selection-start="18" selection-end="18" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/ListUnique.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="13" selection-start="105" selection-end="105" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1650">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
+        <state line="7" column="13" selection-start="105" selection-end="105" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1650" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/Locus.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="8" selection-start="8" selection-end="8" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4020">
-          <folding />
-        </state>
+        <state line="0" column="8" selection-start="8" selection-end="8" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4020" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/ParseFile.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="1" selection-start="90" selection-end="90" vertical-scroll-proportion="0.0" vertical-offset="3" max-vertical-offset="5175">
-          <folding />
-        </state>
+        <state line="6" column="1" selection-start="90" selection-end="90" vertical-scroll-proportion="0.0" vertical-offset="3" max-vertical-offset="5175" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/ResidueEntry.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="7" selection-start="110" selection-end="110" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1890">
-          <folding />
-        </state>
+        <state line="6" column="7" selection-start="110" selection-end="110" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1890" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/utils/FisherExact.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="8" selection-start="8" selection-end="8" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3000">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/utils/Tools.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="7" selection-start="50" selection-end="50" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2190">
-          <folding />
-        </state>
+        <state line="0" column="8" selection-start="8" selection-end="8" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3000" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/LinkageDisequilibrium.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="539" column="19" selection-start="22186" selection-end="22186" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="10470">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1883#1897#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/Residue.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="10" column="13" selection-start="188" selection-end="188" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="7425">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/web/FileFTPDownload.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="6" selection-start="69" selection-end="69" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1245">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1698,67 +1490,43 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/web/HLAAlign.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="23" selection-start="942" selection-end="942" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="8370">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/Run.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="13" selection-start="248" selection-end="248" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2865">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2666#2673#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/SKDM/src/gui/class-use/Window.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1815">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1815" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/settings.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="589" selection-end="589" vertical-scroll-proportion="0.08742715" vertical-offset="0" max-vertical-offset="1201">
-          <folding />
-        </state>
+        <state line="7" column="0" selection-start="589" selection-end="589" vertical-scroll-proportion="0.08742715" vertical-offset="0" max-vertical-offset="1201" />
       </provider>
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_51.jdk/Contents/Home/src.zip!/java/lang/Class.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2134" column="24" selection-start="90906" selection-end="90906" vertical-scroll-proportion="0.53288925" vertical-offset="30320" max-vertical-offset="47055">
-          <folding />
-        </state>
+        <state line="2134" column="24" selection-start="90906" selection-end="90906" vertical-scroll-proportion="0.53288925" vertical-offset="30320" max-vertical-offset="47055" />
       </provider>
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_51.jdk/Contents/Home/src.zip!/java/io/File.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="613" column="18" selection-start="25622" selection-end="25622" vertical-scroll-proportion="0.3330558" vertical-offset="8240" max-vertical-offset="32430">
-          <folding />
-        </state>
+        <state line="613" column="18" selection-start="25622" selection-end="25622" vertical-scroll-proportion="0.3330558" vertical-offset="8240" max-vertical-offset="32430" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/utils/Settings.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="77" column="72" selection-start="2601" selection-end="2601" vertical-scroll-proportion="0.0" vertical-offset="607" max-vertical-offset="2655">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_51.jdk/Contents/Home/src.zip!/java/awt/Toolkit.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="974" column="26" selection-start="41155" selection-end="41155" vertical-scroll-proportion="0.94894147" vertical-offset="12948" max-vertical-offset="38130">
-          <folding />
-        </state>
+        <state line="974" column="26" selection-start="41155" selection-end="41155" vertical-scroll-proportion="0.94894147" vertical-offset="12948" max-vertical-offset="38130" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/gui/hla_icon.GIF">
@@ -1773,23 +1541,36 @@
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_51.jdk/Contents/Home/src.zip!/java/net/URL.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="134" column="19" selection-start="5247" selection-end="5247" vertical-scroll-proportion="0.632806" vertical-offset="800" max-vertical-offset="19275">
+        <state line="134" column="19" selection-start="5247" selection-end="5247" vertical-scroll-proportion="0.632806" vertical-offset="800" max-vertical-offset="19275" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="50" selection-start="424" selection-end="424" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1920">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utils/Tools.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="99" column="29" selection-start="3151" selection-end="3151" vertical-scroll-proportion="0.0" vertical-offset="1370" max-vertical-offset="2190">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/gui/Window.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="282" column="0" selection-start="11370" selection-end="11370" vertical-scroll-proportion="0.0" vertical-offset="3697" max-vertical-offset="4500">
+        <state line="288" column="0" selection-start="11568" selection-end="11568" vertical-scroll-proportion="0.0" vertical-offset="3528" max-vertical-offset="4365">
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#11615#11753#0" expanded="true" />
+            <element signature="e#11742#11743#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.xml">
+    <entry file="file://$PROJECT_DIR$/src/web/HLAAlign.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="83" column="44" selection-start="3488" selection-end="3488" vertical-scroll-proportion="0.1867995" vertical-offset="1095" max-vertical-offset="1920">
+        <state line="451" column="39" selection-start="62505" selection-end="62505" vertical-scroll-proportion="0.75084174" vertical-offset="5438" max-vertical-offset="8160">
           <folding />
         </state>
       </provider>
@@ -1800,7 +1581,7 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
-          <last-edited>SKDM_Source_workingDir:ear exploded</last-edited>
+          <last-edited>SKDM_Jar_exploded</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1813,7 +1594,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>javaEEApplication (SKDM_Source_workingDir)|JavaEE Application</last-edited>
+          <last-edited>JavaEE Application</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1829,7 +1610,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.3174971" />
+                <option value="0.20240481" />
               </list>
             </option>
           </splitter-proportions>
