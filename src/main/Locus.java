@@ -64,15 +64,15 @@ public enum Locus {
 	DRB1{
 		public int[][] getPockets(){
 			return new int[][] {
-					{85,89,86},          // pocket 1
+					{82,85,86,89},          // pocket 1
 					{},                  //
 					{},                  //
-					{13,71,78,70,74,26}, // pocket 4
+					{13,26,70,71,74,78}, // pocket 4
 					{},                  //
-					{9,11,30},           // pocket 6
-					{28,61,71,47,67},    // pocket 7
+					{11},           // pocket 6
+					{28,47,61,67,71},    // pocket 7
 					{},                  //
-					{9,60,57,37,38}      // pocket 9
+					{9,57,60,61}      // pocket 9
 			};
 		}
 		public String getRefSeq(){
@@ -82,15 +82,15 @@ public enum Locus {
 	DQB1{
 		public int[][] getPockets(){
 			return new int[][] {
-					{85,89,86},          // pocket 1
-					{},                  //
-					{},                  //
-					{13,71,78,70,74,26}, // pocket 4
-					{},                  //
-					{9,11,30},           // pocket 6
-					{28,61,71,47,67},    // pocket 7
-					{},                  //
-					{9,60,57,37,38}      // pocket 9
+                    {82,85,86,89},          // pocket 1
+                    {},                  //
+                    {},                  //
+                    {13,26,70,71,74,78}, // pocket 4
+                    {},                  //
+                    {11},           // pocket 6
+                    {28,47,61,67,71},    // pocket 7
+                    {},                  //
+                    {9,57,60,61}      // pocket 9
 			};
 		}
 		public String getRefSeq(){
