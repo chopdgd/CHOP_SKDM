@@ -7,7 +7,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="060ff0f0-1e21-430f-b640-808cd471f086" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/Locus.java" afterPath="$PROJECT_DIR$/src/main/Locus.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/ctrl.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/log.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/pat.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/settings.txt" afterPath="" />
     </list>
     <ignored path="SKDM_Source.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -225,16 +228,16 @@
       <file leaf-file-name="Residue.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/Residue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="13" selection-start="188" selection-end="188" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="7335">
+            <state line="10" column="13" selection-start="188" selection-end="188" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="7425">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Locus.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Locus.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/Locus.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="76" column="9" selection-start="2182" selection-end="2182" vertical-scroll-proportion="0.5469613" vertical-offset="645" max-vertical-offset="4020">
+            <state line="76" column="9" selection-start="2182" selection-end="2182" vertical-scroll-proportion="0.0" vertical-offset="645" max-vertical-offset="4020">
               <folding />
             </state>
           </provider>
@@ -261,16 +264,16 @@
       <file leaf-file-name="HLAAlign.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/web/HLAAlign.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="451" column="39" selection-start="62505" selection-end="62505" vertical-scroll-proportion="0.0" vertical-offset="6765" max-vertical-offset="8160">
+            <state line="451" column="39" selection-start="62505" selection-end="62505" vertical-scroll-proportion="0.0" vertical-offset="6765" max-vertical-offset="8595">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Tools.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Tools.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/utils/Tools.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="99" column="29" selection-start="3151" selection-end="3151" vertical-scroll-proportion="0.0" vertical-offset="1485" max-vertical-offset="2190">
+            <state line="99" column="29" selection-start="3151" selection-end="3151" vertical-scroll-proportion="-0.07992895" vertical-offset="1485" max-vertical-offset="2145">
               <folding />
             </state>
           </provider>
@@ -279,7 +282,7 @@
       <file leaf-file-name="build.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="50" selection-start="424" selection-end="424" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="1920">
+            <state line="7" column="50" selection-start="424" selection-end="424" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1920">
               <folding />
             </state>
           </provider>
@@ -369,8 +372,8 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="22" />
-    <option name="width" value="2560" />
-    <option name="height" value="1025" />
+    <option name="width" value="1280" />
+    <option name="height" value="719" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -403,7 +406,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -436,43 +438,12 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SKDM_Source_workingDir" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SKDM_Source_workingDir" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SKDM_Source_workingDir" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SKDM_Source_workingDir" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane">
         <subPane />
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -779,6 +750,41 @@
       <patterns />
       <method />
     </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browserFamily" value="FIREFOX" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
     <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
       <deployment />
       <server-settings>
@@ -842,41 +848,6 @@
           <option name="PROGRAM_PARAMETERS" value="" />
         </SHUTDOWN>
       </ConfigurationWrapper>
-      <method />
-    </configuration>
-    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
-      <option name="BCName" value="" />
-      <option name="IOSSimulatorSdkPath" value="" />
-      <option name="adlOptions" value="" />
-      <option name="airProgramParameters" value="" />
-      <option name="appDescriptorForEmulator" value="Android" />
-      <option name="debugTransport" value="USB" />
-      <option name="debuggerSdkRaw" value="BC SDK" />
-      <option name="emulator" value="NexusOne" />
-      <option name="emulatorAdlOptions" value="" />
-      <option name="fastPackaging" value="true" />
-      <option name="fullScreenHeight" value="0" />
-      <option name="fullScreenWidth" value="0" />
-      <option name="launchUrl" value="false" />
-      <option name="launcherParameters">
-        <LauncherParameters>
-          <option name="browserFamily" value="FIREFOX" />
-          <option name="launcherType" value="OSDefault" />
-          <option name="newPlayerInstance" value="false" />
-          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
-        </LauncherParameters>
-      </option>
-      <option name="mobileRunTarget" value="Emulator" />
-      <option name="moduleName" value="" />
-      <option name="overriddenMainClass" value="" />
-      <option name="overriddenOutputFileName" value="" />
-      <option name="overrideMainClass" value="false" />
-      <option name="runTrusted" value="true" />
-      <option name="screenDpi" value="0" />
-      <option name="screenHeight" value="0" />
-      <option name="screenWidth" value="0" />
-      <option name="url" value="http://" />
-      <option name="usbDebugPort" value="7936" />
       <method />
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
@@ -1201,11 +1172,12 @@
       <workItem from="1427726873708" duration="718000" />
       <workItem from="1427921614508" duration="3828000" />
       <workItem from="1429551753850" duration="407000" />
+      <workItem from="1438697136483" duration="229000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="397400000" />
+    <option name="totallyTimeSpent" value="397629000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -1228,7 +1200,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="2560" height="1025" extended-state="6" />
+    <frame x="0" y="22" width="1280" height="719" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1238,7 +1210,7 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32944608" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.056791104" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.05654281" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.26037428" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="-1280" y="22" width="1280" height="778" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21486267" sideWeight="0.30029154" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1251,7 +1223,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JProfiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.07545671" sideWeight="0.6976242" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18739903" sideWeight="0.6976242" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.61269325" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3265306" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -1354,14 +1326,6 @@
         <state line="559" column="31" selection-start="16550" selection-end="16550" vertical-scroll-proportion="0.33333334" vertical-offset="7946" max-vertical-offset="8820" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/logs/ctrl.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="18" selection-end="18" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="135" />
-      </provider>
-      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_51.jdk/Contents/Home/src.zip!/javax/swing/text/FlowView.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="157" column="0" selection-start="4664" selection-end="4664" vertical-scroll-proportion="0.0" vertical-offset="1864" max-vertical-offset="12765" />
@@ -1383,11 +1347,11 @@
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/Desktop/WGTest3399321_DNA_NS_validationset.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="145" column="84" selection-start="11138" selection-end="11138" vertical-scroll-proportion="0.05726257" vertical-offset="2134" max-vertical-offset="20595" />
-      </provider>
       <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
         <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="145" column="84" selection-start="11138" selection-end="11138" vertical-scroll-proportion="0.05726257" vertical-offset="2134" max-vertical-offset="20595" />
       </provider>
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_51.jdk/Contents/Home/src.zip!/java/util/TreeSet.java">
@@ -1398,19 +1362,6 @@
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_51.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1268" column="35" selection-start="49620" selection-end="49620" vertical-scroll-proportion="0.34812286" vertical-offset="18303" max-vertical-offset="30210" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/logs/pat.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="0" selection-start="198" selection-end="198" vertical-scroll-proportion="9.111111" vertical-offset="501" max-vertical-offset="840" />
-      </provider>
-      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/logs/log.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4320" column="0" selection-start="250233" selection-end="250233" vertical-scroll-proportion="0.0" vertical-offset="64258" max-vertical-offset="64890" />
       </provider>
     </entry>
     <entry file="jar://$PROJECT_DIR$/lib/dgdcore_1.1.3.jar!/META-INF/MANIFEST.MF">
@@ -1465,9 +1416,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/web/FileFTPDownload.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="6" selection-start="69" selection-end="69" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1245">
-          <folding />
-        </state>
+        <state line="6" column="6" selection-start="69" selection-end="69" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1245" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/web/FTPFileDownloader.java">
@@ -1487,11 +1436,6 @@
     <entry file="file://$PROJECT_DIR$/docs/SKDM/src/gui/class-use/Window.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1815" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/settings.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="589" selection-end="589" vertical-scroll-proportion="0.08742715" vertical-offset="0" max-vertical-offset="1201" />
       </provider>
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_51.jdk/Contents/Home/src.zip!/java/lang/Class.java">
@@ -1531,20 +1475,6 @@
         <state line="134" column="19" selection-start="5247" selection-end="5247" vertical-scroll-proportion="0.632806" vertical-offset="800" max-vertical-offset="19275" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="50" selection-start="424" selection-end="424" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1920">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/utils/Tools.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="99" column="29" selection-start="3151" selection-end="3151" vertical-scroll-proportion="0.0" vertical-offset="1370" max-vertical-offset="2190">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/gui/Window.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="288" column="0" selection-start="11568" selection-end="11568" vertical-scroll-proportion="0.0" vertical-offset="3528" max-vertical-offset="4365">
@@ -1575,7 +1505,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/Locus.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="76" column="9" selection-start="2182" selection-end="2182" vertical-scroll-proportion="0.5469613" vertical-offset="645" max-vertical-offset="4020">
+        <state line="76" column="9" selection-start="2182" selection-end="2182" vertical-scroll-proportion="0.0" vertical-offset="645" max-vertical-offset="4020">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="50" selection-start="424" selection-end="424" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1920">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utils/Tools.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="99" column="29" selection-start="3151" selection-end="3151" vertical-scroll-proportion="-0.07992895" vertical-offset="1485" max-vertical-offset="2145">
           <folding />
         </state>
       </provider>
