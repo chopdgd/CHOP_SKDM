@@ -1,7 +1,6 @@
 # CHOP_SKDM
 Application of analyses of HLAs
 
-SKDM HLA tool:
 SKDM tool helps to investigate HLA associations, and automate their analysis in the context of a case– control design through complex computation. 
 The SKDM HLA Tool can test for HLA allele differences between two populations and perform amino acid analysis by retrieving amino acid sequences. Once primary associations are identified, the program examines zygosity and tests for strongest association, interaction and linkage disequilibrium among amino acid epitopes of the same HLA molecule or between HLA isotypes. A summary of the analysis is output in plain language. 
 
