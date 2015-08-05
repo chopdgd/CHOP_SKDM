@@ -19,8 +19,9 @@ You only need the main executable “SKDM_2.1.jar” under the “dist” folder
 In order to execute the program, simply double click on the icon or on the filename, SKDM_2.1.jar. 
 
 or on the commandline: 
+```
 java -jar SKDM_2.1.jar
-
+```
 If you cannot execute this file for any reason, you may need to install the latest version of Java on your machine. 
 To do that, go to the following website and download a free version of Java: http://www.java.com/en/download/
 
