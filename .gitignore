@@ -2,6 +2,7 @@
 
 # .idea files
 .idea/*
+.idea/workspace.xml
 .DS_Store
 *.iml
 
@@ -12,6 +13,7 @@
 #*.jar
 #*.war
 #*.ear
-
+logs/*.txt
+dist/production/*
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
