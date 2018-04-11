@@ -237,10 +237,15 @@ public class HLAAlign {
 
                         //find index of position where the real protein starts at position 1.
                         if(inputLine.length()>indexOf1){
-                            String pattern = loc+"\\*";
-                            String inputLineaddingSplit = inputLine.substring(0, indexOf1-1)+"$"+inputLine.substring(indexOf1, inputLine.length());
+                            String pattern = "^ "+loc+"\\*";
 
-                            String modifiedInputLine = inputLineaddingSplit.replaceAll(pattern,"");
+                            if(inputLine.contains("04:01:01:24N")){
+                                System.out.println("here");
+                            }
+                            //replacing the pattern $ with <space>$ because the IMGt alignments sometimes have only 1 space between header and sequence which gets eaten away during substring. This should allow for one space because later, it rep;laces the first space by "&" to split header.
+                            //String inputLineaddingSplit = inputLine.substring(0, indexOf1-1)+"$"+inputLine.substring(indexOf1, inputLine.length());
+                            String inputLineaddingSplit = inputLine.substring(0, indexOf1-1)+" $"+inputLine.substring(indexOf1, inputLine.length());
+                            String modifiedInputLine = inputLineaddingSplit.replaceAll(pattern," ");
                             modifiedInputLine = modifiedInputLine.substring(1, modifiedInputLine.length()-1);
 
                             sb.append(modifiedInputLine);
@@ -286,8 +291,6 @@ public class HLAAlign {
 
 
         //create a linkedHashMap to store the retrieved alleles, the retrieved headers and the data from the locus file.
-
-
         Map<String, String> alleleMap = new LinkedHashMap<>();
         Map<String, String> headerMap = new LinkedHashMap<>();
         Map<String, String> locusFileAlleleMap = new LinkedHashMap<>();
@@ -297,7 +300,12 @@ public class HLAAlign {
 
             for(String eachSeq : alleleStr){
                 if(!eachSeq.equalsIgnoreCase("hello")){
+                    if(eachSeq.contains("04:01:01:24N")){
+                        System.out.println("here");
+                    }
+
                     String headerAndSeq = eachSeq.replaceFirst(" ", "&");
+                    System.out.println(headerAndSeq);
                     String header = headerAndSeq.split("&", -1)[0];
                     String[] headerFieldArray = header.split(":", -1);
                     String seq = headerAndSeq.split("\\&", -1)[1].split("\\$", -1)[1].replaceAll(" ","");
@@ -532,14 +540,23 @@ public class HLAAlign {
                     flag = true;
                 }
 
-                /*System.out.println(deltas.get(i));
+                System.out.println(deltas.get(i));
                 System.out.println(header);
                 System.out.println(blanks(MAX_HEADER-header.length()));
                 System.out.println(String.valueOf(aligns[i])+" \nand size is:"+ aligns[i].length);
+                System.out.println(COLS + "col is" + COL);
                 System.out.println(Math.min(ALIGNMENTS_PRINT_UNTIL_POS,COLS*COL));
-                System.out.println(String.valueOf(aligns[i]).substring(0, Math.min(ALIGNMENTS_PRINT_UNTIL_POS, COLS * COL)));*/
+                if(ALIGNMENTS_PRINT_UNTIL_POS==(COLS*COL)){
+                    System.out.println(String.valueOf(aligns[i]).substring(0, Math.min(ALIGNMENTS_PRINT_UNTIL_POS, aligns[i].length)));
+                }else{
+                    System.out.println(String.valueOf(aligns[i]).substring(0, Math.min(ALIGNMENTS_PRINT_UNTIL_POS, COLS * COL)));
+                }
 
-				sb.append("\n" + deltas.get(i) + "\t" + header + blanks(MAX_HEADER - header.length()) + String.valueOf(aligns[i]).substring(0, Math.min(ALIGNMENTS_PRINT_UNTIL_POS, COLS * COL)));
+                if(ALIGNMENTS_PRINT_UNTIL_POS==(COLS*COL)){
+				    sb.append("\n" + deltas.get(i) + "\t" + header + blanks(MAX_HEADER - header.length()) + String.valueOf(aligns[i]).substring(0, Math.min(ALIGNMENTS_PRINT_UNTIL_POS, aligns[i].length)));
+                }else{
+                    sb.append("\n" + deltas.get(i) + "\t" + header + blanks(MAX_HEADER - header.length()) + String.valueOf(aligns[i]).substring(0, Math.min(ALIGNMENTS_PRINT_UNTIL_POS, COLS * COL)));
+                }
                 //System.out.println(sb.toString());
 			}
 		}
