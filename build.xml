@@ -43,7 +43,7 @@
 
     <!-- Compile all of our class files -->
     <target name="compile" depends="prepare" description="Compile .java files into .class files">
-        <javac destdir="${build.dir}" target="1.7" includeantruntime="true" debug="true" deprecation="false" optimize="false" failonerror="true">
+        <javac destdir="${build.dir}" target="1.8" includeantruntime="true" debug="true" deprecation="false" optimize="false" failonerror="true">
             <src path="${src.dir}"/>
             <classpath refid="master-classpath"/>
         </javac>

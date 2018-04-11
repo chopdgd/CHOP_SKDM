@@ -130,7 +130,7 @@ public enum Locus {
 			};
 		}
 		public String getRefSeq(){
-			return "01:01:01";
+			return "01:01:01:01";
 		}
 	},
 	DPA1{
