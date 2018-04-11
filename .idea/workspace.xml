@@ -7,80 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="060ff0f0-1e21-430f-b640-808cd471f086" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SKDM_2.1.jar" afterPath="$PROJECT_DIR$/lib/SKDM_2.1.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/main/AlleleMapComparator.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/main/AlleleMapComparator.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/main/class-use/AlleleMapComparator.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/main/class-use/AlleleMapComparator.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/main/AlleleObject.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/main/AlleleObject.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/main/class-use/AlleleObject.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/main/class-use/AlleleObject.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/main/Delta.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/main/Delta.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/main/class-use/Delta.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/main/class-use/Delta.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/main/DownloadAlleles.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/main/DownloadAlleles.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/main/class-use/DownloadAlleles.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/main/class-use/DownloadAlleles.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/web/FTPFileDownloader.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/web/FTPFileDownloader.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/web/class-use/FTPFileDownloader.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/web/class-use/FTPFileDownloader.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/web/FileFTPDownload.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/web/FileFTPDownload.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/web/class-use/FileFTPDownload.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/web/class-use/FileFTPDownload.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/utils/FisherExact.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/utils/FisherExact.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/utils/class-use/FisherExact.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/utils/class-use/FisherExact.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/web/HLAAlign.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/web/HLAAlign.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/web/class-use/HLAAlign.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/web/class-use/HLAAlign.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/web/HLAAlign.java" afterPath="$PROJECT_DIR$/src/web/HLAAlign.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/main/LinkageDisequilibrium.LDEntry.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/main/LinkageDisequilibrium.LDEntry.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/main/class-use/LinkageDisequilibrium.LDEntry.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/main/class-use/LinkageDisequilibrium.LDEntry.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/main/LinkageDisequilibrium.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/main/LinkageDisequilibrium.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/main/class-use/LinkageDisequilibrium.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/main/class-use/LinkageDisequilibrium.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/main/ListUnique.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/main/ListUnique.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/main/class-use/ListUnique.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/main/class-use/ListUnique.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/main/Locus.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/main/Locus.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/main/class-use/Locus.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/main/class-use/Locus.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/Locus.java" afterPath="$PROJECT_DIR$/src/main/Locus.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/main/ParseFile.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/main/ParseFile.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/main/class-use/ParseFile.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/main/class-use/ParseFile.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/main/Residue.ResidueEntryComparator.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/main/Residue.ResidueEntryComparator.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/main/class-use/Residue.ResidueEntryComparator.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/main/class-use/Residue.ResidueEntryComparator.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/main/Residue.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/main/Residue.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/main/class-use/Residue.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/main/class-use/Residue.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/main/ResidueEntry.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/main/ResidueEntry.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/main/class-use/ResidueEntry.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/main/class-use/ResidueEntry.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/main/Run.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/main/Run.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/main/class-use/Run.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/main/class-use/Run.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/utils/Settings.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/utils/Settings.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/utils/class-use/Settings.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/utils/class-use/Settings.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/utils/Tools.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/utils/Tools.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/utils/class-use/Tools.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/utils/class-use/Tools.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/gui/Window.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/gui/Window.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/gui/class-use/Window.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/gui/class-use/Window.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/allclasses-frame.html" afterPath="$PROJECT_DIR$/docs/SKDM/allclasses-frame.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/allclasses-noframe.html" afterPath="$PROJECT_DIR$/docs/SKDM/allclasses-noframe.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.xml" afterPath="$PROJECT_DIR$/build.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/constant-values.html" afterPath="$PROJECT_DIR$/docs/SKDM/constant-values.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/deprecated-list.html" afterPath="$PROJECT_DIR$/docs/SKDM/deprecated-list.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/help-doc.html" afterPath="$PROJECT_DIR$/docs/SKDM/help-doc.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/index-all.html" afterPath="$PROJECT_DIR$/docs/SKDM/index-all.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/index.html" afterPath="$PROJECT_DIR$/docs/SKDM/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/overview-frame.html" afterPath="$PROJECT_DIR$/docs/SKDM/overview-frame.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/overview-summary.html" afterPath="$PROJECT_DIR$/docs/SKDM/overview-summary.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/overview-tree.html" afterPath="$PROJECT_DIR$/docs/SKDM/overview-tree.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/gui/package-frame.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/gui/package-frame.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/main/package-frame.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/main/package-frame.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/utils/package-frame.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/utils/package-frame.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/web/package-frame.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/web/package-frame.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/gui/package-summary.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/gui/package-summary.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/main/package-summary.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/main/package-summary.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/utils/package-summary.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/utils/package-summary.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/web/package-summary.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/web/package-summary.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/gui/package-tree.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/gui/package-tree.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/main/package-tree.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/main/package-tree.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/utils/package-tree.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/utils/package-tree.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/web/package-tree.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/web/package-tree.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/gui/package-use.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/gui/package-use.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/main/package-use.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/main/package-use.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/utils/package-use.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/utils/package-use.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/web/package-use.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/web/package-use.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/serialized-form.html" afterPath="$PROJECT_DIR$/docs/SKDM/serialized-form.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="SKDM_Source.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -343,7 +270,7 @@
       <file leaf-file-name="Tools.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/utils/Tools.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="99" column="29" selection-start="3151" selection-end="3151" vertical-scroll-proportion="0.4659091" vertical-offset="825" max-vertical-offset="2145">
+            <state line="130" column="44" selection-start="4032" selection-end="4032" vertical-scroll-proportion="0.8314088" vertical-offset="825" max-vertical-offset="2145">
               <folding />
             </state>
           </provider>
@@ -476,6 +403,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -484,36 +412,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SKDM_Source_workingDir" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SKDM_Source_workingDir" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SKDM_Source_workingDir" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SKDM_Source_workingDir" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane">
         <subPane />
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1176,11 +1079,12 @@
       <workItem from="1429551753850" duration="407000" />
       <workItem from="1438697136483" duration="229000" />
       <workItem from="1523460738771" duration="12000" />
+      <workItem from="1523466418556" duration="19000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="397641000" />
+    <option name="totallyTimeSpent" value="397660000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -1213,9 +1117,9 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32944608" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.05654281" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.056393962" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.26037428" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="-1280" y="22" width="1280" height="778" />
-      <window_info id="Kotlin" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Kotlin" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21486267" sideWeight="0.30029154" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32944608" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1223,12 +1127,12 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24821287" sideWeight="0.4967033" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.1615509" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18739903" sideWeight="0.6976242" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18705322" sideWeight="0.6976242" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.61269325" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3265306" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.08723748" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1550,7 +1454,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/utils/Tools.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="99" column="29" selection-start="3151" selection-end="3151" vertical-scroll-proportion="0.4659091" vertical-offset="825" max-vertical-offset="2145">
+        <state line="130" column="44" selection-start="4032" selection-end="4032" vertical-scroll-proportion="0.8314088" vertical-offset="825" max-vertical-offset="2145">
           <folding />
         </state>
       </provider>
