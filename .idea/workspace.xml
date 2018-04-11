@@ -1,0 +1,1650 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="SKDM_Source_workingDir:ear" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="060ff0f0-1e21-430f-b640-808cd471f086" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SKDM_2.1.jar" afterPath="$PROJECT_DIR$/lib/SKDM_2.1.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/main/AlleleMapComparator.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/main/AlleleMapComparator.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/main/class-use/AlleleMapComparator.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/main/class-use/AlleleMapComparator.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/main/AlleleObject.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/main/AlleleObject.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/main/class-use/AlleleObject.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/main/class-use/AlleleObject.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/main/Delta.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/main/Delta.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/main/class-use/Delta.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/main/class-use/Delta.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/main/DownloadAlleles.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/main/DownloadAlleles.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/main/class-use/DownloadAlleles.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/main/class-use/DownloadAlleles.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/web/FTPFileDownloader.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/web/FTPFileDownloader.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/web/class-use/FTPFileDownloader.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/web/class-use/FTPFileDownloader.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/web/FileFTPDownload.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/web/FileFTPDownload.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/web/class-use/FileFTPDownload.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/web/class-use/FileFTPDownload.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/utils/FisherExact.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/utils/FisherExact.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/utils/class-use/FisherExact.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/utils/class-use/FisherExact.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/web/HLAAlign.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/web/HLAAlign.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/web/class-use/HLAAlign.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/web/class-use/HLAAlign.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/web/HLAAlign.java" afterPath="$PROJECT_DIR$/src/web/HLAAlign.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/main/LinkageDisequilibrium.LDEntry.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/main/LinkageDisequilibrium.LDEntry.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/main/class-use/LinkageDisequilibrium.LDEntry.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/main/class-use/LinkageDisequilibrium.LDEntry.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/main/LinkageDisequilibrium.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/main/LinkageDisequilibrium.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/main/class-use/LinkageDisequilibrium.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/main/class-use/LinkageDisequilibrium.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/main/ListUnique.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/main/ListUnique.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/main/class-use/ListUnique.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/main/class-use/ListUnique.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/main/Locus.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/main/Locus.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/main/class-use/Locus.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/main/class-use/Locus.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/Locus.java" afterPath="$PROJECT_DIR$/src/main/Locus.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/main/ParseFile.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/main/ParseFile.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/main/class-use/ParseFile.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/main/class-use/ParseFile.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/main/Residue.ResidueEntryComparator.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/main/Residue.ResidueEntryComparator.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/main/class-use/Residue.ResidueEntryComparator.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/main/class-use/Residue.ResidueEntryComparator.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/main/Residue.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/main/Residue.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/main/class-use/Residue.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/main/class-use/Residue.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/main/ResidueEntry.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/main/ResidueEntry.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/main/class-use/ResidueEntry.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/main/class-use/ResidueEntry.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/main/Run.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/main/Run.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/main/class-use/Run.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/main/class-use/Run.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/utils/Settings.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/utils/Settings.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/utils/class-use/Settings.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/utils/class-use/Settings.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/utils/Tools.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/utils/Tools.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/utils/class-use/Tools.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/utils/class-use/Tools.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/gui/Window.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/gui/Window.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/gui/class-use/Window.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/gui/class-use/Window.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/allclasses-frame.html" afterPath="$PROJECT_DIR$/docs/SKDM/allclasses-frame.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/allclasses-noframe.html" afterPath="$PROJECT_DIR$/docs/SKDM/allclasses-noframe.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.xml" afterPath="$PROJECT_DIR$/build.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/constant-values.html" afterPath="$PROJECT_DIR$/docs/SKDM/constant-values.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/deprecated-list.html" afterPath="$PROJECT_DIR$/docs/SKDM/deprecated-list.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/help-doc.html" afterPath="$PROJECT_DIR$/docs/SKDM/help-doc.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/index-all.html" afterPath="$PROJECT_DIR$/docs/SKDM/index-all.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/index.html" afterPath="$PROJECT_DIR$/docs/SKDM/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/overview-frame.html" afterPath="$PROJECT_DIR$/docs/SKDM/overview-frame.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/overview-summary.html" afterPath="$PROJECT_DIR$/docs/SKDM/overview-summary.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/overview-tree.html" afterPath="$PROJECT_DIR$/docs/SKDM/overview-tree.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/gui/package-frame.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/gui/package-frame.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/main/package-frame.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/main/package-frame.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/utils/package-frame.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/utils/package-frame.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/web/package-frame.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/web/package-frame.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/gui/package-summary.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/gui/package-summary.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/main/package-summary.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/main/package-summary.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/utils/package-summary.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/utils/package-summary.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/web/package-summary.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/web/package-summary.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/gui/package-tree.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/gui/package-tree.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/main/package-tree.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/main/package-tree.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/utils/package-tree.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/utils/package-tree.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/web/package-tree.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/web/package-tree.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/gui/package-use.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/gui/package-use.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/main/package-use.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/main/package-use.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/utils/package-use.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/utils/package-use.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/src/web/package-use.html" afterPath="$PROJECT_DIR$/docs/SKDM/src/web/package-use.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SKDM/serialized-form.html" afterPath="$PROJECT_DIR$/docs/SKDM/serialized-form.html" />
+    </list>
+    <ignored path="SKDM_Source.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="Commander">
+    <leftPanel />
+    <rightPanel />
+    <splitter proportion="0.5" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint url="file://$PROJECT_DIR$/src/web/HLAAlign.java" line="206" class="src.web.HLAAlign" package="src.web">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/web/HLAAlign.java" line="292" class="src.web.HLAAlign" package="src.web">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/web/HLAAlign.java" line="319" class="src.web.HLAAlign" package="src.web">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/web/HLAAlign.java" line="390" class="src.web.HLAAlign" package="src.web">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/web/HLAAlign.java" line="384" class="src.web.HLAAlign" package="src.web">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/web/HLAAlign.java" line="398" class="src.web.HLAAlign" package="src.web">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/web/HLAAlign.java" line="386" class="src.web.HLAAlign" package="src.web">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/web/HLAAlign.java" line="387" class="src.web.HLAAlign" package="src.web">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/web/HLAAlign.java" line="388" class="src.web.HLAAlign" package="src.web">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </line_breakpoints>
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="SKDM_Source" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="LinkageDisequilibrium.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/LinkageDisequilibrium.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="539" column="19" selection-start="22186" selection-end="22186" vertical-scroll-proportion="0.0" vertical-offset="8085" max-vertical-offset="10620">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Residue.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/Residue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="13" selection-start="188" selection-end="188" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="7425">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Locus.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/Locus.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="76" column="9" selection-start="2182" selection-end="2182" vertical-scroll-proportion="0.0" vertical-offset="1140" max-vertical-offset="4020">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Run.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/Run.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="13" selection-start="248" selection-end="248" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="2865">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FTPFileDownloader.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/web/FTPFileDownloader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="7" selection-start="71" selection-end="71" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="1200">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HLAAlign.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/web/HLAAlign.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="451" column="39" selection-start="62933" selection-end="62933" vertical-scroll-proportion="0.0" vertical-offset="6765" max-vertical-offset="8850">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Tools.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/utils/Tools.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="99" column="29" selection-start="3151" selection-end="3151" vertical-scroll-proportion="0.4659091" vertical-offset="825" max-vertical-offset="2145">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="50" selection-start="424" selection-end="424" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="1920">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Window.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/gui/Window.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="288" column="0" selection-start="11568" selection-end="11568" vertical-scroll-proportion="0.0" vertical-offset="4320" max-vertical-offset="4530">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Settings.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/utils/Settings.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="77" column="72" selection-start="2601" selection-end="2601" vertical-scroll-proportion="0.0" vertical-offset="1155" max-vertical-offset="2655">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$HOME_DIR$/SKDM/main/DownloadAlleles.java" />
+        <option value="$HOME_DIR$/SKDM/main/FileFTPDownload.java" />
+        <option value="$HOME_DIR$/SKDM/web/FileFTPDownload.java" />
+        <option value="$HOME_DIR$/SKDM/web/HLAAlign.java" />
+        <option value="$HOME_DIR$/SKDM/web/FileDownloader.java" />
+        <option value="$PROJECT_DIR$/web/FileDownloader.java" />
+        <option value="$PROJECT_DIR$/web/FileFTPDownload.java" />
+        <option value="$PROJECT_DIR$/web/FTPFileDownloader.java" />
+        <option value="$PROJECT_DIR$/main/alleleObject.java" />
+        <option value="$PROJECT_DIR$/main/AlleleObject.java" />
+        <option value="$PROJECT_DIR$/main/ParseFile.java" />
+        <option value="$PROJECT_DIR$/DRB1_prot.txt" />
+        <option value="$PROJECT_DIR$/main/Delta.java" />
+        <option value="$PROJECT_DIR$/main/ListUnique.java" />
+        <option value="$USER_HOME$/Desktop/WGTest3399321_DNA_NS_validationset.txt" />
+        <option value="$PROJECT_DIR$/main/Locus.java" />
+        <option value="$PROJECT_DIR$/utils/Tools.java" />
+        <option value="$PROJECT_DIR$/utils/Settings.java" />
+        <option value="$PROJECT_DIR$/main/Run.java" />
+        <option value="$PROJECT_DIR$/main/Residue.java" />
+        <option value="$PROJECT_DIR$/main/LinkageDisequilibrium.java" />
+        <option value="$PROJECT_DIR$/web/HLAAlign.java" />
+        <option value="$PROJECT_DIR$/C_prot.txt" />
+        <option value="$PROJECT_DIR$/META-INF/application.xml" />
+        <option value="$PROJECT_DIR$/production/SKDM_Source/manifest.mf" />
+        <option value="$PROJECT_DIR$/production/SKDM_Source/pom.xml" />
+        <option value="$PROJECT_DIR$/build.xml.tld" />
+        <option value="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+        <option value="$PROJECT_DIR$/skdm_source_workingdir.xml" />
+        <option value="$PROJECT_DIR$/src/main/AlleleMapComparator.java" />
+        <option value="$PROJECT_DIR$/src/main/AlleleObject.java" />
+        <option value="$PROJECT_DIR$/src/main/Delta.java" />
+        <option value="$PROJECT_DIR$/src/main/DownloadAlleles.java" />
+        <option value="$PROJECT_DIR$/src/main/ListUnique.java" />
+        <option value="$PROJECT_DIR$/src/main/ParseFile.java" />
+        <option value="$PROJECT_DIR$/src/main/Residue.java" />
+        <option value="$PROJECT_DIR$/src/main/ResidueEntry.java" />
+        <option value="$PROJECT_DIR$/src/main/Run.java" />
+        <option value="$PROJECT_DIR$/src/utils/FisherExact.java" />
+        <option value="$PROJECT_DIR$/src/utils/Settings.java" />
+        <option value="$PROJECT_DIR$/src/utils/Tools.java" />
+        <option value="$PROJECT_DIR$/src/main/LinkageDisequilibrium.java" />
+        <option value="$PROJECT_DIR$/src/web/FileFTPDownload.java" />
+        <option value="$PROJECT_DIR$/src/web/FTPFileDownloader.java" />
+        <option value="$PROJECT_DIR$/src/gui/Window.java" />
+        <option value="$PROJECT_DIR$/build.xml" />
+        <option value="$PROJECT_DIR$/src/web/HLAAlign.java" />
+        <option value="$PROJECT_DIR$/src/main/Locus.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="2560" />
+    <option name="height" value="1417" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectStructureProblems">
+    <ignored-problems>
+      <problem id="unused-library(library:project:SKDM)" />
+    </ignored-problems>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SKDM_Source_workingDir" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SKDM_Source_workingDir" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SKDM_Source_workingDir" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SKDM_Source_workingDir" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SKDM_Source_workingDir" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane />
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.20240481" />
+    <property name="recentsLimit" value="5" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="options.lastSelected" value="Errors" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/classes" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="SearchEverywhereHistory" value="" />
+    <property name="GenerateAntBuildDialog.generateSingleFile" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="false" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.backupFiles" value="false" />
+    <property name="GenerateAntBuildDialog.inclineRuntiemClasspath" value="true" />
+    <property name="GenerateAntBuildDialog.generateIdeaHomeProperty" value="false" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="skdm_source_workingdir" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings />
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/logs" />
+      <recent name="$PROJECT_DIR$/META-INF" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SKDM_Window">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin" singleton="true">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SKDM_Source" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TomeeConfiguration" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_Default_(Template)_Project_2" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Cover" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="64430" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="JProfiler">
+        <option name="JVM" value="/Library/Java/JavaVirtualMachines/jdk1.7.0_51.jdk/Contents/Home" />
+        <option name="WINDOW" value="false" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="JProfiler">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SKDM_Source" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SKDM_Source" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <RunnerSettings RunnerId="JProfiler">
+        <option name="WINDOW" value="false" />
+      </RunnerSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SKDM_Source" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_Default_(Template)_Project" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Cover" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="64392" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browserFamily" value="FIREFOX" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SKDM_Source" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SKDM_Source" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" output_log_level="null" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browserFamily" value="FIREFOX" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <RunnerSettings RunnerId="JProfiler">
+        <option name="WINDOW" value="false" />
+      </RunnerSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SKDM_Source" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="SKDM_Window" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="src.gui.Window" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="SKDM_Source_workingDir" />
+      <envs />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="JProfiler">
+        <option name="WINDOW" value="false" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Dgdweb_tomcat" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.50" ALTERNATIVE_JRE_ENABLED="false" ALTERNATIVE_JRE_PATH="">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/dgdweb/primer/home.html" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_Default_(Template)_Project_2" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Cover" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="64392" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="JProfiler">
+        <option name="JVM" value="/Library/Java/JavaVirtualMachines/jdk1.7.0_51.jdk/Contents/Home" />
+        <option name="WINDOW" value="false" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="JProfiler">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Application.SKDM_Window" />
+      <item index="1" class="java.lang.String" itemvalue="Tomcat Server.Dgdweb_tomcat" />
+    </list>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SliceManager">
+    <option name="analysisUIOptions">
+      <AnalysisUIOptions />
+    </option>
+  </component>
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <configuration useDefault="false">$USER_HOME$/.subversion</configuration>
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="060ff0f0-1e21-430f-b640-808cd471f086" name="Default" comment="" />
+      <created>1422456795880</created>
+      <updated>1422456795880</updated>
+      <workItem from="1422456799089" duration="493000" />
+      <workItem from="1422457355364" duration="981000" />
+      <workItem from="1422458490356" duration="218000" />
+      <workItem from="1422458713166" duration="3000" />
+      <workItem from="1422458723489" duration="1000" />
+      <workItem from="1422461279973" duration="7000" />
+      <workItem from="1422461393616" duration="947000" />
+      <workItem from="1422464851261" duration="22345000" />
+      <workItem from="1422997531107" duration="19661000" />
+      <workItem from="1423152907338" duration="1134000" />
+      <workItem from="1423154386052" duration="5778000" />
+      <workItem from="1423164885331" duration="25511000" />
+      <workItem from="1423581806787" duration="5384000" />
+      <workItem from="1423617249973" duration="37826000" />
+      <workItem from="1424095234065" duration="68705000" />
+      <workItem from="1424726944867" duration="21210000" />
+      <workItem from="1425190451754" duration="157503000" />
+      <workItem from="1427111755913" duration="9420000" />
+      <workItem from="1427291709683" duration="15320000" />
+      <workItem from="1427726873708" duration="718000" />
+      <workItem from="1427921614508" duration="3828000" />
+      <workItem from="1429551753850" duration="407000" />
+      <workItem from="1438697136483" duration="229000" />
+      <workItem from="1523460738771" duration="12000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="397641000" />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="2560" height="1417" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32872254" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="JavaEE:App" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20113085" sideWeight="0.300216" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32944608" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.05654281" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.26037428" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="-1280" y="22" width="1280" height="778" />
+      <window_info id="Kotlin" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21486267" sideWeight="0.30029154" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32944608" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33236152" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24821287" sideWeight="0.4967033" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.1615509" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18739903" sideWeight="0.6976242" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.61269325" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3265306" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.08723748" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29073483" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32384053" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="JProfiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+    <buildFile url="file://$PROJECT_DIR$/build.xml">
+      <targetFilters>
+        <filter targetName="remove-signatures" isVisible="false" />
+      </targetFilters>
+      <expanded value="true" />
+    </buildFile>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/web/HLAAlign.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="451" column="39" selection-start="62933" selection-end="62933" vertical-scroll-proportion="0.0" vertical-offset="6765" max-vertical-offset="8850">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utils/Tools.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="99" column="29" selection-start="3151" selection-end="3151" vertical-scroll-proportion="0.0" vertical-offset="1485" max-vertical-offset="2145">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="50" selection-start="424" selection-end="424" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="1920">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gui/Window.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="288" column="0" selection-start="11568" selection-end="11568" vertical-scroll-proportion="0.0" vertical-offset="4320" max-vertical-offset="4530">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utils/Settings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="77" column="72" selection-start="2601" selection-end="2601" vertical-scroll-proportion="0.0" vertical-offset="1155" max-vertical-offset="2655">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$HOME_DIR$/SKDM/web/HLAAlign.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="227" column="4" selection-start="52506" selection-end="52506" vertical-scroll-proportion="0.3488746" vertical-offset="2783" max-vertical-offset="5400" />
+      </provider>
+    </entry>
+    <entry file="file://$HOME_DIR$/SKDM/web/alignB.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-2.1014493" vertical-offset="1305" max-vertical-offset="58140" />
+      </provider>
+    </entry>
+    <entry file="file://$HOME_DIR$/SKDM/gui/Window.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="187" column="0" selection-start="7428" selection-end="7428" vertical-scroll-proportion="-0.25075987" vertical-offset="2805" max-vertical-offset="4305" />
+      </provider>
+    </entry>
+    <entry file="file://$HOME_DIR$/SKDM/main/DownloadAlleles.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="5" selection-start="142" selection-end="142" vertical-scroll-proportion="0.20516717" vertical-offset="0" max-vertical-offset="658" />
+      </provider>
+    </entry>
+    <entry file="file://$HOME_DIR$/SKDM/web/FileFTPDownload.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="97" selection-start="964" selection-end="1024" vertical-scroll-proportion="-0.06838906" vertical-offset="480" max-vertical-offset="1170" />
+      </provider>
+    </entry>
+    <entry file="file://$HOME_DIR$/SKDM/web/FileDownloader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="71" column="0" selection-start="2060" selection-end="2060" vertical-scroll-proportion="0.7948328" vertical-offset="422" max-vertical-offset="1080" />
+      </provider>
+    </entry>
+    <entry file="file://$HOME_DIR$/SKDM/main/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="130" column="0" selection-start="5161" selection-end="5161" vertical-scroll-proportion="-0.18604651" vertical-offset="1950" max-vertical-offset="2595" />
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_51.jdk/Contents/Home/src.zip!/java/net/URLClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="353" column="0" selection-start="12892" selection-end="12892" vertical-scroll-proportion="0.2111293" vertical-offset="4446" max-vertical-offset="10905" />
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_51.jdk/Contents/Home/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="108" column="17" selection-start="4208" selection-end="4208" vertical-scroll-proportion="0.33275864" vertical-offset="1082" max-vertical-offset="8745" />
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_51.jdk/Contents/Home/src.zip!/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="877" column="22" selection-start="35163" selection-end="35163" vertical-scroll-proportion="0.3330558" vertical-offset="12410" max-vertical-offset="22635" />
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/dgdcore_1.1.3.jar!/edu/chop/dgd/process/FileDownloader.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="11" selection-start="559" selection-end="559" vertical-scroll-proportion="0.35530087" vertical-offset="131" max-vertical-offset="1050" />
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_51.jdk/Contents/Home/src.zip!/java/lang/StringBuffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="559" column="31" selection-start="16550" selection-end="16550" vertical-scroll-proportion="0.33333334" vertical-offset="7946" max-vertical-offset="8820" />
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_51.jdk/Contents/Home/src.zip!/javax/swing/text/FlowView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="157" column="0" selection-start="4664" selection-end="4664" vertical-scroll-proportion="0.0" vertical-offset="1864" max-vertical-offset="12765" />
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_51.jdk/Contents/Home/src.zip!/javax/swing/DefaultButtonModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="401" column="0" selection-start="10206" selection-end="10206" vertical-scroll-proportion="0.0" vertical-offset="5245" max-vertical-offset="7455" />
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_51.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1906" column="0" selection-start="75404" selection-end="75404" vertical-scroll-proportion="0.33248082" vertical-offset="27835" max-vertical-offset="46140" />
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_51.jdk/Contents/Home/src.zip!/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="334" column="19" selection-start="9220" selection-end="9220" vertical-scroll-proportion="0.33333334" vertical-offset="4448" max-vertical-offset="16815" />
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_51.jdk/Contents/Home/src.zip!/java/util/TreeSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="122" column="11" selection-start="4687" selection-end="4687" vertical-scroll-proportion="0.7745098" vertical-offset="1248" max-vertical-offset="7830" />
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_51.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1268" column="35" selection-start="49620" selection-end="49620" vertical-scroll-proportion="0.34812286" vertical-offset="18303" max-vertical-offset="30210" />
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/dgdcore_1.1.3.jar!/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="69" selection-start="1605" selection-end="1605" vertical-scroll-proportion="0.61417323" vertical-offset="0" max-vertical-offset="635" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/META-INF/application.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="14" selection-start="322" selection-end="322" vertical-scroll-proportion="0.15050167" vertical-offset="0" max-vertical-offset="598" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/AlleleMapComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="17" selection-start="17" selection-end="17" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="585" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/AlleleObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="12" selection-start="12" selection-end="12" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="405" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Delta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="7" selection-start="83" selection-end="83" vertical-scroll-proportion="0.0" vertical-offset="1" max-vertical-offset="1470" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/DownloadAlleles.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="18" selection-end="18" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/ListUnique.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="13" selection-start="105" selection-end="105" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1650" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/ParseFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="1" selection-start="90" selection-end="90" vertical-scroll-proportion="0.0" vertical-offset="3" max-vertical-offset="5175" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/ResidueEntry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="7" selection-start="110" selection-end="110" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1890" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utils/FisherExact.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="8" selection-start="8" selection-end="8" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3000" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/web/FileFTPDownload.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="6" selection-start="69" selection-end="69" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1245" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/web/FTPFileDownloader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="7" selection-start="71" selection-end="71" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1200">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="13" selection-start="248" selection-end="248" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2865">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/SKDM/src/gui/class-use/Window.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1815" />
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_51.jdk/Contents/Home/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2134" column="24" selection-start="90906" selection-end="90906" vertical-scroll-proportion="0.53288925" vertical-offset="30320" max-vertical-offset="47055" />
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_51.jdk/Contents/Home/src.zip!/java/io/File.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="613" column="18" selection-start="25622" selection-end="25622" vertical-scroll-proportion="0.3330558" vertical-offset="8240" max-vertical-offset="32430" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utils/Settings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="77" column="72" selection-start="2601" selection-end="2601" vertical-scroll-proportion="0.0" vertical-offset="607" max-vertical-offset="2655">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_51.jdk/Contents/Home/src.zip!/java/awt/Toolkit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="974" column="26" selection-start="41155" selection-end="41155" vertical-scroll-proportion="0.94894147" vertical-offset="12948" max-vertical-offset="38130" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gui/hla_icon.GIF">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gui/hla_icon.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_51.jdk/Contents/Home/src.zip!/java/net/URL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="134" column="19" selection-start="5247" selection-end="5247" vertical-scroll-proportion="0.632806" vertical-offset="800" max-vertical-offset="19275" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gui/Window.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="288" column="0" selection-start="11568" selection-end="11568" vertical-scroll-proportion="0.0" vertical-offset="3528" max-vertical-offset="4365">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/web/HLAAlign.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="451" column="39" selection-start="62933" selection-end="62933" vertical-scroll-proportion="0.0" vertical-offset="6765" max-vertical-offset="8850">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/LinkageDisequilibrium.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="539" column="19" selection-start="22186" selection-end="22186" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="10470">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Residue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="13" selection-start="188" selection-end="188" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="7425">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Locus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="76" column="9" selection-start="2182" selection-end="2182" vertical-scroll-proportion="0.0" vertical-offset="645" max-vertical-offset="4020">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="50" selection-start="424" selection-end="424" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1920">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utils/Tools.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="99" column="29" selection-start="3151" selection-end="3151" vertical-scroll-proportion="0.4659091" vertical-offset="825" max-vertical-offset="2145">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>SKDM_Jar_exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.20240481" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>JavaEE Application</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.20240481" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Python 2.7.7 (/Library/Frameworks/Python.framework/Versions/2.7/bin/python) interpreter library</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.20240481" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.20240481" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>javaEEApplication|SKDM_Source_workingDir</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.20240481" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>lib</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.20240481" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+
